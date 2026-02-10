@@ -2,7 +2,7 @@
 
 A fully responsive, dynamic portfolio website with Covr-inspired parallax scrolling effects. Built with pure HTML, CSS, and JavaScript - no frameworks required.
 
-## 🌟 Features
+## Features
 
 - **Covr-Inspired Design**: Smooth parallax scrolling effects on background images
 - **6 Dynamic Sections**: Home, About, Education, Projects, Experience, and Contact
@@ -13,7 +13,7 @@ A fully responsive, dynamic portfolio website with Covr-inspired parallax scroll
 - **SEO Optimized**: Proper meta tags and semantic HTML structure
 - **Performance Optimized**: Smooth 60fps animations using requestAnimationFrame
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 aryan-portfolio/
@@ -32,7 +32,7 @@ aryan-portfolio/
 └── README.md              # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone or Download** this repository
 2. **Add Your Images**: Place project images in the `images/` folder
@@ -41,7 +41,7 @@ aryan-portfolio/
 5. **Test Locally**: Open `index.html` in your browser
 6. **Deploy**: Push to GitHub Pages, Netlify, or Vercel
 
-## 🎨 Customization Guide
+##  Customization Guide
 
 ### 1. Change Color Scheme
 
@@ -297,15 +297,15 @@ git push -u origin main
 - [ ] Add language switcher
 - [ ] Create admin panel for easy updates
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this project and customize it for your own use!
 
-## 📧 Contact
+##  Contact
 
 **Aryan Sharma**
 - Email: aryuansharma@gmail.com
@@ -314,7 +314,7 @@ Feel free to fork this project and customize it for your own use!
 
 ---
 
-## 🎯 Quick Reference: Common Edits
+## Quick Reference: Common Edits
 
 | What to Change | File | Line Numbers |
 |----------------|------|--------------|
