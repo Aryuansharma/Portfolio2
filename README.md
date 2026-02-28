@@ -1,4 +1,4 @@
-testing pending 
+
 Aryan Sharma - Portfolio Website
 
 A fully responsive, dynamic portfolio website with Covr-inspired parallax scrolling effects. Built with pure HTML, CSS, and JavaScript - no frameworks required.
